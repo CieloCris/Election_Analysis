@@ -1,13 +1,8 @@
 # Election Analysis
 
 ## Project Overview
-A Colorado Board of Election employee has given you the following task to complete the election audit of a recent local congressional election.
-
-1. Calculate the total numbers of vote cast
-2. Get a complete list of candidate who received votes
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidates won.
-5. Determine the winner of the election based on popular vote.
+####In this challenge, we performed an analysis and a report of the results of a local congressional election in Colorado using Python 3.9.2 and Visual Studio Code. Our job was to help Tom, a Colorado Board Election employee, who had given us the task of analyzing a CSV file with the election results.
+####In other words, our purpose was to make a report on the elections in the counties of Denver, Jefferson, and Arapahoe. We'll be reporting the total numbers of the votes cast, the total number of votes each candidate received, the percentages of votes for each candidate, and the winner of the election based on popular votes.
 
 ## Resources
 - Data Source: election_results.csv
