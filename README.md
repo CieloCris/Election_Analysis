@@ -18,7 +18,7 @@
 
 #### The analysis of the election shows that there were 369,711 votes cast in the election.
 
-#### The candidates were:
+#### The candidates of the election were:
 ####    - Charles Casper Stockham
 ####    - Diane DeGette
 ####    - Raymon Anthony Doane
@@ -30,14 +30,14 @@
 
 #### The winner of the election was Diane DeGette with 272,892 votes, which represents 73.8% of the total votes.
 
-#### There were three counties in Colorado where elections were held and the results of voter turnout were:
-####    - Jefferson county had 38,855 voters and 10.5% of votes from each county out of the total count
-####    - Denver county had 306,055 voters and 82.8% of votes from each county out of the total count
- ###    - Arapahoe county had 24,801 voters and 6.7% of votes from each county out of the total count.
+#### There were three counties in where the election were held and the results of voter turnout were:
+####    - Jefferson county had 38,855 voters and 10.5% of the total votes.
+####    - Denver county had 306,055 voters and 82.8% of the total votes.
+####    - Arapahoe county had 24,801 voters and 6.7% of the total votes.
 
-#### The county with the highest voter turnout was Denver County, with 307,055 voters and the 82.8%
+#### The county with the highest voter turnout was Denver, with 307,055 voters and the 82.8% of the total votes.
 
-#### The following screenshots shows the election results printed in the command line:
+#### The following screenshot shows the election results printed in the command line:
 
 ![Alt text](/Recursos/electionresults.png "imagen1")
 
@@ -47,11 +47,10 @@
 #### In other words, we can customize the code according to the requirements of each election. For example, we can analyze a federal election and report the results for each State in a similar way as we did for counties in this election, but with some specific modifications. This Python script can also be adjusted for elections in other countries.
 #### The use of this script is convenient because it provides a lot of information in a short time and adapts according to the needs of the election. It's important to highlight that using programming languages such as Python in electoral processes is practical, safer and allows fewer errors and  transparency in the analysis.
 
-
 ## Challenge Overview and Summary
 #### This project allowed me to understand the fundamentals of Python and its utility in the field of data analysis. In this challenge, we expanded the code for researching voter turnout by county. The adjustments to the code allowed us to extend the analysis, which can improve more by reporting the percentage of votes for each candidate in each county.
 
 
-#### The following screenshot shows the text file with the elections results:
+#### Finally, the fhe following screenshot shows the text file with the elections results:
 
 ![Alt text](/Recursos/electionresultstxt.png "imagen2")
