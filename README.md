@@ -10,7 +10,7 @@
 #### We perform an analysis with Python 3.9.7 and VS Code 1.66.1 using a CSV file to report the election results.
 
 #### - Data Source: election_results.csv
-#### - Data size: 369,712 rows and 4 columns
+#### - Data size: 369,712 rows and 3 columns (Ballot ID, County and Candidate)
 #### - Software: Python 3.9.7, Visual Studio Code version 1.66.1
 
 
@@ -25,10 +25,10 @@
 
 #### The candidate results were:
 ####    - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
-####    - Diane DeGette received 73.0% of the vote and 272,892 number votes.
+####    - Diane DeGette received 73.0% of the vote and 272,892 votes.
 ####    - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 
-#### The winner of the election was Diane DeGette with 272,892 votes, which represents 73.8% of the total votes.
+#### The winner of the election was Diane DeGette with 272,892 of 369,711 votes, which represents 73.8% of the total votes.
 
 #### There were three counties in where the election were held and the results of voter turnout were:
 ####    - Jefferson county had 38,855 voters and 10.5% of the total votes.
