@@ -6,14 +6,14 @@ import csv
 import os
 
 # Add a variable to load a file from a path.
-file_to_load = os.path.join("Recursos", "election_results.csv")
+file_to_load = os.path.join("Resources0", "election_results.csv")
 # Add a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 
 # Initialize a total vote counter.
 total_votes = 0
 
-# Candidate Options and candidate votes.
+# Candidate Options and candidat e votes.
 candidate_options = []
 candidate_votes = {}
 
