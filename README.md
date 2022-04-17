@@ -41,7 +41,7 @@
 
 #### The next screenshot shows the election results printed in the command line:
 
-![Alt text](/modu "imagen1")
+![Alt text](/electionresults.png "imagen1")
 
 ## Election-Audit summary
 #### The Python script that we utilized to analyze the election results can be used in future elections. That is, the code can be adapted for not only local but also state and federal elections.
