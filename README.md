@@ -43,7 +43,7 @@
 #### The use of this script is convenient because it provides a lot of information in a short time and adapts according to the needs of the election. It's important to highlight that using programming languages such as Python in electoral processes is practical, safer and, allows fewer errors and  transparency in the analysis.
 
 ## Challenge Overview and Summary
-#### This project allowed me to understand the fundamentals of Python and its utility in the field of data analysis. In this challenge, we expanded the code for researching voter turnout by county. The adjustments to the code allowed us to extend the analysis, which can improve more by reporting the percentage of votes for each candidate in each county.
+#### This project allowed us to understand the fundamentals of Python and its utility in the field of data analysis. In this challenge, we expanded the code for researching voter turnout by county. The adjustments to the code allowed us to extend the analysis, which can improve more by reporting the percentage of votes for each candidate in each county.
 
 #### Finally, the screenshot bellow shows the text file with the election results:
 
