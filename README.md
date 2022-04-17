@@ -10,51 +10,48 @@
 #### We perform an analysis with Python 3.9.7 and VS Code 1.66.1 using a CSV file to report the election results.
 
 #### - Data Source: election_results.csv
-#### - Data size: 
-####
+#### - Data size: 369,712 rows and 4 columns
 #### - Software: Python 3.9.7, Visual Studio Code version 1.66.1
-#### Metodologúa
+
 
 ## Summary
-#### The analysis of the election show that:
 
-#### There were 369,711 votes cast in the election.
-#### 
+#### - The analysis of the election show that there were 369,711 votes cast in the election.
+
 #### - The candidates were:
 ####    - Charles Casper Stockham
 ####    - Diane DeGette
 ####    - Raymon Anthony Doane
 
-#### The candidate results were:
-####    - Charles Casper Stockham received **23.0%** of the vote and **85,213** number of votes.
-####    - Diane DeGette received **73.0%** of the vote and **272,892** number of votes.
-####    - Raymon Anthony Doane received **3.1%** of the vote and **11,606** number of votes.
+#### - The candidate results were:
+####    - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+####    - Diane DeGette received 73.0% of the vote and 272,892 number votes.
+####    - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 
-#### -The winner of the election was: Diane DeGette, who received **73.8%** of the vote and **272,892** number of votes.
+#### - The winner of the election was Diane DeGette with 272,892 votes, which represents 73.8% of the total votes.
 
-#### - The results of voter turnout by county were: 
-####    - Jefferson County tuve 10.5% de votantes, for a total of 38, 855 voters
-####    - Denver county had ____ voters and porcentae of votes of the total count
-####    - Arapahoe
+#### - There were three counties in Colorado where elections were held and the results of voter turnout were:
+####    - Jefferson county had 38,855 voters and 10.5% of votes from each county out of the total count
+####    - Denver county had 306,055 voters and 82.8% of votes from each county out of the total count
+ ###    - Arapahoe county had 24,801 voters and 6.7% of votes from each county out of the total count.
 
-#### - The county with the highest voter turnout was Denver County, pues tuvo el 82.8% de los votantes de todas las elecciones
+#### - The county with the highest voter turnout was Denver County, with 307,055 voters and the 82.8%
 
-#### The next screenshot shows the election results printed in the command line:
+#### The following screenshot shows the election results printed in the command line:
 
 ![Alt text](/Recursos/electionresults.png "imagen1")
 
 ## Election-Audit summary
-#### The Python script that we utilized to analyze the election results can be used in future elections. That is, the code can be adapted for not only local but also state and federal elections.
+
+#### The Python script that we utilized to analyze the election results can be used in the perfomance of future elections. That is, the code can be adapted for not only local but also state and federal elections.
 #### In other words, we can customize the code according to the requirements of each election. For example, we can analyze a federal election and report the results for each State in a similar way as we did for counties in this election, but with some specific modifications. This Python script can also be adjusted for elections in other countries.
-#### It's important to highlight that using programming languages such as Python in electoral processes is practical, safer and allows fewer errors and greater transparency in the analysis.
+#### The use of this script is convenient because it provides a lot of information in a short time and adapts according to the needs of the election. It's important to highlight that using programming languages such as Python in electoral processes is practical, safer and allows fewer errors and  transparency in the analysis.
 
 
-## Challenge Overview 
+## Challenge Overview and Summary
+#### This project allowed me to understand the fundamentals of Python and its utility in the field of data analysis. In this challenge, we expanded the code for researching voter turnout by county. The adjustments to the code allowed us to extend the analysis, which can improve more by reporting the percentage of votes for each candidate in each county.
 
 
-
-## Challenge Summary
-
-#### This screenshoy shows the txt file with the elections results:
+#### The following screenshot shows the text file with the elections results:
 
 ![Alt text](/Recursos/electionresultstxt.png "imagen2")
