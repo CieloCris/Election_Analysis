@@ -39,7 +39,7 @@
 ## Election-Audit summary
 
 #### The Python script that we utilized to analyze the election results can be used in the performance of future elections. That is, the code can be adapted for not only local but also state and federal elections.
-#### In other words, we can customize the code according to the requirements of each election. For example, we can analyze a federal election and report the results for each State in a similar way as we did for counties in this election, but with some specific modifications. This Python script can also be adjusted for elections in other countries.
+#### In other words, we can customize the code according to the requirements of each election. For example, we can analyze a federal election and report the results for each State in a similar way as we did for counties, but with some specific modifications. This Python script can also be adjusted for elections in other countries.
 #### The use of this script is convenient because it provides a lot of information in a short time and adapts according to the needs of the election. It's important to highlight that using programming languages such as Python in electoral processes is practical, safer and, allows fewer errors and  transparency in the analysis.
 
 ## Challenge Overview and Summary
