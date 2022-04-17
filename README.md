@@ -53,4 +53,4 @@
 
 #### Finally, the fhe following screenshot shows the text file with the elections results:
 
-![Alt text](/Recursos/textfile2.png "imagen0")
+![Alt text](/Recursos/textfile.png "imagen0")
