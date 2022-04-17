@@ -19,10 +19,10 @@ The analysis of the election shows that there were **369,711 votes cast** in the
 
 The running candidates of the election and their results were:
   * **Charles Casper Stockham** received 23.0% of the vote and 85,213 votes.
-  * **Diane DeGette** received 73.0% of the vote and 272,892 votes.
+  * **Diana DeGette** received 73.0% of the vote and 272,892 votes.
   * **Raymon Anthony Doane**, received 3.1% of the vote and 11,606 votes.
 
-The winner of the election was **Diane DeGette** with **272,892** of 369,711 votes, which represents **73.8%** of the total votes.
+The winner of the election was **Diana DeGette** with **272,892** of 369,711 votes, which represents **73.8%** of the total votes.
 
 There were three counties where the election was held and the results of voter turnout were:
   * **Jefferson County** had 38,855 voters and 10.5% of the total votes.
