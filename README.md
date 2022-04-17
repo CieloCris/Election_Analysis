@@ -47,6 +47,6 @@ The use of this script is convenient because it provides a lot of information in
 
 This project allowed us to understand the fundamentals of Python and its utility in the field of data analysis. In this challenge, we expanded the code for researching voter turnout by county. The adjustments to the code allowed us to extend the analysis, which still can improve more by reporting the percentage of votes for each candidate in each county and the winning candidate by county (for that, we can use for loops and if-statements).
 
-Finally, the screenshot bellow shows the text file with the election results:
+Finally, the image bellow shows the text file with the election results:
 
 ![Alt text](/Resources0/textfile.png "imagen0")
