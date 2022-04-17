@@ -4,7 +4,7 @@
 
 #### In this challenge, we performed an analysis and a report of the results of a local Congressional Election in Colorado using Python and Visual Studio Code. Our job was to help Tom, a Colorado Board Election employee, who had given us the task of analyzing a CSV file format with the election results.
 
-#### In other words, our purpose was to make a report on the elections in the counties of Denver, Jefferson, and Arapahoe. We'll be reporting the total numbers of the votes cast, the total number of votes each candidate received, the percentages of votes for each candidate, and the winner of the election based on popular votes.
+#### In other words, our purpose was to make a report of the election in the counties of Denver, Jefferson, and Arapahoe. We'll be reporting the total numbers of the votes cast, the total number of votes each candidate received, the percentages of votes for each candidate, and the winner of the election based on popular votes.
 
 ## Resources
 #### We perform an analysis with Python 3.9.7 and VS Code 1.66.1 using a CSV file to report the election results.
