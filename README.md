@@ -16,28 +16,28 @@
 
 ## Summary
 
-#### - The analysis of the election show that there were 369,711 votes cast in the election.
+#### The analysis of the election shows that there were 369,711 votes cast in the election.
 
-#### - The candidates were:
+#### The candidates were:
 ####    - Charles Casper Stockham
 ####    - Diane DeGette
 ####    - Raymon Anthony Doane
 
-#### - The candidate results were:
+#### The candidate results were:
 ####    - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
 ####    - Diane DeGette received 73.0% of the vote and 272,892 number votes.
 ####    - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 
-#### - The winner of the election was Diane DeGette with 272,892 votes, which represents 73.8% of the total votes.
+#### The winner of the election was Diane DeGette with 272,892 votes, which represents 73.8% of the total votes.
 
-#### - There were three counties in Colorado where elections were held and the results of voter turnout were:
+#### There were three counties in Colorado where elections were held and the results of voter turnout were:
 ####    - Jefferson county had 38,855 voters and 10.5% of votes from each county out of the total count
 ####    - Denver county had 306,055 voters and 82.8% of votes from each county out of the total count
  ###    - Arapahoe county had 24,801 voters and 6.7% of votes from each county out of the total count.
 
-#### - The county with the highest voter turnout was Denver County, with 307,055 voters and the 82.8%
+#### The county with the highest voter turnout was Denver County, with 307,055 voters and the 82.8%
 
-#### The following screenshot shows the election results printed in the command line:
+#### The following screenshots shows the election results printed in the command line:
 
 ![Alt text](/Recursos/electionresults.png "imagen1")
 
