@@ -18,11 +18,11 @@ We perform an analysis with Python 3.9.7 and VS Code 1.66.1 using a CSV file to 
 The analysis of the election shows that there were **369,711 votes cast** in the election.
 
 The running candidates of the election and their results were:
-  * **Charles Casper Stockham** received 23.0% of the vote and 85,213 votes.
-  * **Diana DeGette** received 73.0% of the vote and 272,892 votes.
-  * **Raymon Anthony Doane**, received 3.1% of the vote and 11,606 votes.
+  * **Charles Casper Stockham** received 85,213 votes, which was 23.0% of the total votes.
+  * **Diana DeGette** received 272,892, which was 73.0% of the total votes.
+  * **Raymon Anthony Doane**, received 11,606 votes, which was 3.1% of the total votes.
 
-The winner of the election was **Diana DeGette** with **272,892** of 369,711 votes, which represents **73.8%** of the total votes.
+The winner of the election was **Diana DeGette** with **272,892 of 369,711 votes**, which represents **73.8%** of the total votes.
 
 There were three counties where the election was held and the results of voter turnout were:
   * **Jefferson County** had 38,855 voters and 10.5% of the total votes.
@@ -35,7 +35,7 @@ The following screenshot shows the election results printed in the command line:
 
 ![Alt text](/Resources0/electionresults.png "imagen1")
 
-## Election-Audit summary
+## Election-Audit Summary
 
 The Python script that we utilized to analyze the election results can be used in the performance of future elections. That is, the code can be adapted for not only local but also state and federal elections.
 
@@ -45,7 +45,7 @@ The use of this script is convenient because it provides a lot of information in
 
 ## Challenge Overview and Summary
 
-This project allowed us to understand the fundamentals of Python and its utility in the field of data analysis. In this challenge, we expanded the code for researching voter turnout by county. The adjustments to the code allowed us to extend the analysis, which can improve more by reporting the percentage of votes for each candidate in each county and the winning candidate in each county.
+This project allowed us to understand the fundamentals of Python and its utility in the field of data analysis. In this challenge, we expanded the code for researching voter turnout by county. The adjustments to the code allowed us to extend the analysis, which still can improve more by reporting the percentage of votes for each candidate in each county and the winning candidate by county (for that, we can use for loops and if-statements).
 
 Finally, the screenshot bellow shows the text file with the election results:
 
